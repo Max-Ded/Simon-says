@@ -1,0 +1,1 @@
+python C:\Users\max\OneDrive\Documents\python\projets\Simon_says\GAME.py
